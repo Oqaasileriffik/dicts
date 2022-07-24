@@ -1,0 +1,13 @@
+* text eol=lf
+*.ods binary
+*.xls binary
+*.xlsx binary
+*.doc binary
+*.docx binary
+*.gz binary
+*.xz binary
+*.zip binary
+*.png binary
+*.jpg binary
+*.pdf binary
+*.sqlite binary
